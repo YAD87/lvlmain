@@ -1,0 +1,6 @@
+[submodule "ldock"]
+	path = ldock
+	url = https://github.com/YAD87/ldock.git
+[submodule "px"]
+	path = px
+	url = https://github.com/YAD87/px.git
